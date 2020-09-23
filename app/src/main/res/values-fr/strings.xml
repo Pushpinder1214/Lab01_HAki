@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">assign1</string>
+    <string name="AI_Activity">Activité IA :</string>
+    <string name="OnCreate_Executed">OnCreate exécuté</string>
+    <string name ="OnStart_Executed">OnStart  exécuté</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="Activity_Life_Cycle">Cycle de la vie</string>
+</resources>
